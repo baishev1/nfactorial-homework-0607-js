@@ -1,0 +1,22 @@
+{
+  "name": "nfactorial",
+  "version": "1.0.0",
+  "description": "",
+  "main": "import.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/baishevb/nfactorial-homework-0606-htmlcss.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/baishevb/nfactorial-homework-0606-htmlcss/issues"
+  },
+  "homepage": "https://github.com/baishevb/nfactorial-homework-0606-htmlcss#readme"
+
+}
+
